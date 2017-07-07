@@ -1,4 +1,4 @@
 AuthType Basic
 Auth Name "Members Only"
-AuthUserFile sandipanbala.github.io/Consult-Club/passprotect/.htpass
+AuthUserFile Consult-Club/passprotect/.htpass
 require valid-user
