@@ -1,0 +1,7 @@
+AuthUserfile "/Users/Sandipan/Documents/public_html/.htpasswd"
+AuthName "Please Log In"
+AuthType Basic
+
+<Limit GET POST>
+require valid-user
+</Limit>
