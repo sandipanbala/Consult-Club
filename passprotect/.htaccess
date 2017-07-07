@@ -1,4 +1,9 @@
 AuthType Basic
 Auth Name "Members Only"
+<<<<<<< HEAD
 AuthUserFile public_html/passprotect/.htpass
 require valid-user
+=======
+AuthUserFile Consult-Club/passprotect/.htpass
+require valid-user
+>>>>>>> 0439d793eb47cfc64538b6365984e6cb6a35f9b4
